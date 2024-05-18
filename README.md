@@ -2,6 +2,9 @@
 
 Lavis is a Python based malware that uses Discord to communicate
 
+# Video Showcase
+here
+
 # Features
 
 ### UAC Bypass - currently only one method but soon will be three
@@ -28,16 +31,17 @@ Lavis is a Python based malware that uses Discord to communicate
 
 ### UAC Stuff - Mask the RAT as a windows process (if the target tries to end it he will bsod)
 
-## List of commands
-Soon
-
 ## TO DO
 Finish and optimize the grabber func
 
-Import more UAC Bypasses (Currently one is used, soon there will three more for sure)
+Import more UAC Bypasses (Currently one is used, soon more will be imported)
+
 New functions (Feel free to give me ideas)
+
 Import ngrok
+
 Optimise the file size 
+
 
 ## Contact me 
 Discord: Slavfucious
