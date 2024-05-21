@@ -1,6 +1,11 @@
 # Lavis - RAT over Discord
 Lavis is a Python based malware that uses Discord to communicate
 
+# Warning
+This repository contains malware for educational and red-teaming purposes only. The creator is not responsible for any misuse or illegal activities conducted with the code. Use responsibly and ensure compliance with all applicable laws and regulations.
+
+
+
 # Video Showcase
 https://gemoo.com/tools/upload-video/share/651635824281128960?codeId=DGWdpEQlN4rGo&card=651635821152210944
 **The video was taken when Lavis was close to 1.0, currenly im working on 1.5 wtih major improvementns: grabber func works 4times fast and sends more stuff, major commands optimization**
